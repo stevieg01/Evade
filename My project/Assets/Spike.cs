@@ -19,7 +19,7 @@ public class Spike : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ySpeed = 0.125f;   //declare value for vertical speed
+        ySpeed = 0.0725f; //declare value for vertical speed
     }
 
     // Update is called once per frame
